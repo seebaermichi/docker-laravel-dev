@@ -1,4 +1,4 @@
-FROM php:7.2-apache
+FROM php:7.3.9-apache
 
 LABEL maintainer="Michael Becker"
 

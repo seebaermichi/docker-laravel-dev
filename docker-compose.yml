@@ -11,7 +11,7 @@ services:
       - mariadb:mariadb
 
   mariadb:
-    image: mariadb:10.1.21
+    image: mariadb:10.4
     ports:
       - "13306:3306"
     environment:
