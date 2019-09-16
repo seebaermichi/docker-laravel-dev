@@ -16,4 +16,4 @@ After this you should have all required Laravel files within the src folder. The
 ## License
 docker laravel dev is released under the MIT License. See [LICENSE][1] file for details.
                    
-[1]: https://github.com/seebaermichi/vue-boilerplate/blob/master/LICENSE
+[1]: https://github.com/seebaermichi/docker-laravel-dev/blob/master/LICENSE
